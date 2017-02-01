@@ -1,0 +1,22 @@
+{
+  "name" : "trumphouse",
+
+  "version" : "0.1.1",
+
+  "description" : "breakout clone",
+
+  "scripts" : {
+
+  },
+
+  "dependencies": {
+
+    "express" : "latest",
+    "path" : "latest",
+    "serve-favicon" : "latest",
+    "cookie-parser" : "latest",
+    "body-parser" : "latest"
+
+  }
+
+}

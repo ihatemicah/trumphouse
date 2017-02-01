@@ -1,0 +1,20 @@
+
+
+#game {
+
+	position: relative;
+	width:100%;
+}
+
+#arena {
+
+	position:absolute;
+	width:960px;
+	height:400px;
+	background-color: red;
+
+}
+
+footer {
+	/* need to put something here */
+}
